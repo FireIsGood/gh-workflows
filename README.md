@@ -15,3 +15,7 @@ And the fish. And the fish. And the fish. And the fish. And the fish. And the fi
 fish. And the fish. And the fish. And the fish. And the fish.
 
 And fixing it now...
+
+Here is an HTML element that is currently illegal:
+
+<p>hi</p>
