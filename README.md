@@ -6,3 +6,5 @@ Here is a very long line to test if markdownlint will complain:
 
 And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the
 fish. And the fish. And the fish. And the fish. And the fish.
+
+Another line to check the markdownlint workflow
