@@ -8,3 +8,7 @@ And the fish. And the fish. And the fish. And the fish. And the fish. And the fi
 fish. And the fish. And the fish. And the fish. And the fish.
 
 Another line to check the markdownlint workflow
+
+This line is over 120 characters (configured limit is 120)
+
+And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the fish. And the fish.
